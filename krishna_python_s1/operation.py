@@ -1,0 +1,6 @@
+a=int(input("first no:"))
+a=int(input("second no:"))
+print("sum =",a+b)
+print("divide =",a/b)
+print("substract=",a-b)
+print("multiply =",a*b)
